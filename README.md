@@ -1,4 +1,4 @@
 # Project-Demo
 This is my first Git Repository.
 <br>
-Author- Gitaa Balla
+Author- Gitaa
